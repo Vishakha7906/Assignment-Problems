@@ -10,7 +10,7 @@ public class JavaExample {
         scanner.close();
         number = num;
 
-        for( ;number!=0;number /= 10)
+        for(number!=0;number /= 10)
         {
             temp = number % 10;
             total = total + temp*temp*temp;
