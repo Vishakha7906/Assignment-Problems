@@ -41,11 +41,11 @@ System.out.print("Enter the number: ");
 num=sc.nextInt();  
 if(isArmstrong(num))  
 {  
-System.out.print("Armstrong ");  
+System.out.print("It is an Armstrong number ");  
 }  
 else   
 {  
-System.out.print("Not Armstrong ");  
+System.out.print("It is not an Armstrong number ");  
 }  
 }   
 } 
